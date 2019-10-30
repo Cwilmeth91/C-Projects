@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEncoderProject", "StringEncoderProject\StringEncoderProject.csproj", "{520DDE5D-63D2-4AD9-BC30-AF1E688FE03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{520DDE5D-63D2-4AD9-BC30-AF1E688FE03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520DDE5D-63D2-4AD9-BC30-AF1E688FE03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520DDE5D-63D2-4AD9-BC30-AF1E688FE03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520DDE5D-63D2-4AD9-BC30-AF1E688FE03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4278B58A-AEF5-44CD-8A2D-5B93C6A2C8A6}
+	EndGlobalSection
+EndGlobal
